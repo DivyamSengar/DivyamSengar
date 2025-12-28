@@ -46,11 +46,3 @@ Beyond the models themselves, I am deeply impassioned by **Infrastructure & Secu
 | **[Diabetes Prediction](https://github.com/DivyamSengar/Diabetes_Prediction_Transformer)** | Medical diagnosis model utilizing a novel TabTransformer architecture and ensemble methods. | Python, sklearn, Pandas |
 | **[Successorator](https://github.com/DivyamSengar/Successorator-Project)** | Multifaceted Android to-do app with persistence, focus modes, and calendar sync. | Java, Android, SQL |
 | **[Data Compressor](https://github.com/DivyamSengar/Data-Compressor)** | Lossless file compression tool using custom Huffman coding data structures. | C++, Algorithms |
-
----
-
-### 📊 GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=DivyamSengar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=06b6d4)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSengar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=06b6d4)](https://github.com/anuraghazra/github-readme-stats)
