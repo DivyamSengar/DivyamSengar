@@ -49,7 +49,8 @@ Beyond the models themselves, I am deeply impassioned by **Infrastructure & Secu
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyamSengar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=06b6d4" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSengar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=06b6d4" height="150" alt="languages graph" />
-</div>
+### 📊 GitHub Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=DivyamSengar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=06b6d4)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSengar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=06b6d4)](https://github.com/anuraghazra/github-readme-stats)
